@@ -98,7 +98,7 @@ while True:
     img[0:125, 0:1280] = header  # only in this specific region our camera will be overlapped by the image (Header)
 
 
-    # TRY THIS ! LOOKS COOL
+    # TRY THIS! LOOKS COOL
     # img = cv2.addWeighted(img,0.5,imgCanvas,0.5,0)
 
     cv2.imshow('Image',img)
