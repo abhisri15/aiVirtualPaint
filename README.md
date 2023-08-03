@@ -15,7 +15,8 @@ You can install OpenCV using:
 pip install opencv-python
 ```
 
-![Color](Color.png) ![Selecting](Selecting.png)
+Coloring![Color](Color.png) 
+Selecting![Selecting](Selecting.png)
 
 ## About the Code
 The provided Python script aiVirtualPainter.py captures video from the webcam, utilizes the HandTrackingModule to detect and track hands, and enables you to draw and select colors using hand gestures. It provides both a drawing mode and a color selection mode.
